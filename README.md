@@ -3,7 +3,7 @@
 #  H1
 
 1. first item
-2 item
+- First item
 3 item
 
 __Sample text__
